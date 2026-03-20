@@ -1,8 +1,21 @@
 # ⚡ Memo | Future Engineer 🎓
 
-<div align="center"> <img src="Captura de pantalla 2026-03-20 134716.png" width="30%" alt="Carambola a Tres Bandas" /> <br>
+<div align="center">
+<svg width="350" height="200" viewBox="0 0 350 200">
+  <!-- Mesa -->
+  <rect x="5" y="5" width="340" height="190" rx="15" fill="#0b5d3b" stroke="#5a3e1b" stroke-width="8"/>
 
-  > *"Paciencia, estrategia y el ángulo perfecto... tanto en la mesa como en el código."* 🎱💻
+  <!-- Bola -->
+  <circle r="6" fill="white">
+    <animateMotion dur="4s" repeatCount="indefinite"
+      path="M50,100 
+            L300,100 
+            L300,20 
+            L50,20 
+            L50,180 
+            L300,180" />
+  </circle>
+</svg>
 </div>
 
 ---
