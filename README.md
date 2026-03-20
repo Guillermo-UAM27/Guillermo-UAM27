@@ -1,7 +1,8 @@
 # ⚡ Memo | Future Engineer 🎓
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00695c&height=120&section=header&text=Learning%20to%20Code%20...&fontSize=30&animation=fadeIn" width="100%" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kotlin-Dark.svg" width="50" />
+  <br>
 
   > *"Paciencia, estrategia y el ángulo perfecto... tanto en la mesa como en el código."* 🎱💻
 </div>
