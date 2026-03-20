@@ -1,7 +1,8 @@
 # ⚡ Memo | Future Engineer 🎓
 
+
 <div align="center">
-  <img src="Captura de pantalla 2026-03-20 134716.png" width="95%" alt="Carambola a Tres Bandas" />
+  <img src="Captura de pantalla 2026-03-20 134716.png" width="20%" alt="Carambola a Tres Bandas" />
   <br>
 
   > *"Paciencia, estrategia y el ángulo perfecto... tanto en la mesa como en el código."* 🎱💻
@@ -13,13 +14,6 @@
 Soy un **estudiante universitario** de ingeniería. Actualmente estoy **aprendiendo a programar** y descubriendo el poder de la lógica. Mi meta es que en un tiempo la programación no sea solo una materia, sino mi verdadera pasión y carrera profesional.
 
 Cuando no estoy codeando, me encuentres en una mesa de **billar**. La **carambola a tres bandas** es mi pasión; me encanta el cálculo y la precisión que requiere.
-
-<div align="center">
-  <!-- 🎱 TU GIF -->
-  <img src="Logo.gif" width="300" alt="Carambola Animation"/>
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00c853&center=true&vCenter=true&width=500&lines=println('Calculando+ángulos...');>+Tirando+a+3+bandas...;>>+¡Carambola!+Code+Compiled+Successfully!;Build+Status:+OK+%E2%9C%85" alt="Typing SVG" />
@@ -46,6 +40,12 @@ Cuando no estoy codeando, me encuentres en una mesa de **billar**. La **carambol
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
+
+<div align="center">
+  <!-- 🎱 TU GIF -->
+  <img src="Logo.gif" width="300" alt="Carambola Animation"/>
+</div>
+
 
 ### 🚀 Mi Enfoque Actual
 * 🏗️ **POO Avanzada:** Herencia, Encapsulamiento e Interfaces en Kotlin.
