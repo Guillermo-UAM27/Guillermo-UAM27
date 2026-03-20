@@ -1,13 +1,13 @@
 # ⚡ Memo | Future Engineer 🎓
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kotlin-Dark.svg" width="50" />
+  <img src="Captura de pantalla 2026-03-20 134716.png" width="90%" alt="Carambola a Tres Bandas" />
+
   <br>
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00695c&height=80&section=header&text=Learning%20to%20Code%20...&fontSize=25&animation=fadeIn" width="100%" />
 
   > *"Paciencia, estrategia y el ángulo perfecto... tanto en la mesa como en el código."* 🎱💻
 </div>
-
----
 
 ### 📚 Sobre Mí
 Soy un **estudiante universitario** de ingeniería. Actualmente estoy **aprendiendo a programar** y descubriendo el poder de la lógica. Mi meta es que en un tiempo la programación no sea solo una materia, sino mi verdadera pasión y carrera profesional.
