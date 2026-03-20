@@ -1,32 +1,36 @@
 # ⚡ Memo | Future Engineer 🎓
 
 <div align="center">
-  <img src="Captura de pantalla 2026-03-20 134716.png" width="90%" alt="Carambola a Tres Bandas" />
-
+  <img src="Captura de pantalla 2026-03-20 134716.png" width="95%" alt="Carambola a Tres Bandas" />
   
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00695c&height=120&section=header&text=Learning%20to%20Code%20...&fontSize=30&animation=fadeIn" width="100%" />
+  <br>
+  
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00695c&height=80&section=header&text=Learning%20to%20Code%20...&fontSize=25&animation=fadeIn" width="100%" />
 
   > *"Paciencia, estrategia y el ángulo perfecto... tanto en la mesa como en el código."* 🎱💻
 </div>
 
 ---
+
 ### 📚 Sobre Mí
 Soy un **estudiante universitario** de ingeniería. Actualmente estoy **aprendiendo a programar** y descubriendo el poder de la lógica. Mi meta es que en un tiempo la programación no sea solo una materia, sino mi verdadera pasión y carrera profesional.
 
 Cuando no estoy codeando, me encuentres en una mesa de **billar**. La **carambola a tres bandas** es mi pasión; me encanta el cálculo y la precisión que requiere.
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00c853&center=true&vCenter=true&width=500&lines=println('Calculando+ángulos...');>+Tirando+a+3+bandas...;>>+¡Carambola!+Code+Compiled+Successfully!;Build+Status:+OK+%E2%9C%85" alt="Typing SVG" />
+</div>
 
 ---
 
 ### 🛠️ My Tech Stack
 
 #### 💻 Lenguajes de Programación
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 #### 🗄️ Bases de Datos
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -47,7 +51,7 @@ Cuando no estoy codeando, me encuentres en una mesa de **billar**. La **carambol
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[TU_USUARIO_AQUÍ]&color=blueviolet&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Guillermo-UAM27&color=blueviolet&style=flat-square" alt="Views" />
   <br>
   <p><i>¡Gracias por pasarte! Si quieres hablar de código o de billar, ¡tira un mensaje!</i></p>
 </div>
