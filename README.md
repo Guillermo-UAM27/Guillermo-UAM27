@@ -1,6 +1,6 @@
 # ⚡ Memo | Future Engineer 🎓
 
-<div align="center"> <img src="Captura de pantalla 2026-03-20 134716.png" width="95%" alt="Carambola a Tres Bandas" /> <br>
+<div align="center"> <img src="Captura de pantalla 2026-03-20 134716.png" width="60%" alt="Carambola a Tres Bandas" /> <br>
 
   > *"Paciencia, estrategia y el ángulo perfecto... tanto en la mesa como en el código."* 🎱💻
 </div>
