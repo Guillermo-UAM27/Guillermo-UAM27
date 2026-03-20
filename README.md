@@ -1,11 +1,15 @@
 # ⚡ Memo | Future Engineer 🎓
 
 <div align="center">
-  <img src="Captura de pantalla 2026-03-20 134716.png" width="95%" alt="Carambola a Tres Bandas" />
-  
-  <br>
-  
+  <!-- 🎱 Imagen de Carambola -->
+  <img src="assets/carambola.png" width="95%" alt="Carambola a Tres Bandas" />
+
+  <br><br>
+
+  <!-- 💻 Banner -->
   <img src="https://capsule-render.vercel.app/render?type=soft&color=00695c&height=80&section=header&text=Learning%20to%20Code%20...&fontSize=25&animation=fadeIn" width="100%" />
+
+  <br><br>
 
   > *"Paciencia, estrategia y el ángulo perfecto... tanto en la mesa como en el código."* 🎱💻
 </div>
@@ -16,6 +20,13 @@
 Soy un **estudiante universitario** de ingeniería. Actualmente estoy **aprendiendo a programar** y descubriendo el poder de la lógica. Mi meta es que en un tiempo la programación no sea solo una materia, sino mi verdadera pasión y carrera profesional.
 
 Cuando no estoy codeando, me encuentres en una mesa de **billar**. La **carambola a tres bandas** es mi pasión; me encanta el cálculo y la precisión que requiere.
+
+<div align="center">
+  <!-- 💻 Animación de código (AHORA AQUÍ 👇) -->
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260" alt="Coding Animation"/>
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00c853&center=true&vCenter=true&width=500&lines=println('Calculando+ángulos...');>+Tirando+a+3+bandas...;>>+¡Carambola!+Code+Compiled+Successfully!;Build+Status:+OK+%E2%9C%85" alt="Typing SVG" />
