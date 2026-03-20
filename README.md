@@ -3,8 +3,8 @@
 <div align="center">
   <img src="Captura de pantalla 2026-03-20 134716.png" width="90%" alt="Carambola a Tres Bandas" />
 
-  <br>
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00695c&height=80&section=header&text=Learning%20to%20Code%20...&fontSize=25&animation=fadeIn" width="100%" />
+  div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00695c&height=120&section=header&text=Learning%20to%20Code%20...&fontSize=30&animation=fadeIn" width="100%" />
 
   > *"Paciencia, estrategia y el ángulo perfecto... tanto en la mesa como en el código."* 🎱💻
 </div>
