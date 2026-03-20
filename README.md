@@ -15,8 +15,10 @@ Soy un **estudiante universitario** de ingeniería. Actualmente estoy **aprendie
 
 Cuando no estoy codeando, me encuentres en una mesa de **billar**. La **carambola a tres bandas** es mi pasión; me encanta el cálculo y la precisión que requiere.
 
+
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00c853&center=true&vCenter=true&width=500&lines=println('Calculando+ángulos...');>+Tirando+a+3+bandas...;>>+¡Carambola!+Code+Compiled+Successfully!;Build+Status:+OK+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding Animation"/>
 </div>
 
 ---
