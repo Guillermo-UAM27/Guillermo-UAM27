@@ -1,15 +1,6 @@
 # ⚡ Memo | Future Engineer 🎓
 
-<div align="center">
-  <!-- 🎱 Imagen de Carambola -->
-  <img src="assets/carambola.png" width="95%" alt="Carambola a Tres Bandas" />
-
-  <br><br>
-
-  <!-- 💻 Banner -->
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00695c&height=80&section=header&text=Learning%20to%20Code%20...&fontSize=25&animation=fadeIn" width="100%" />
-
-  <br><br>
+<div align="center"> <img src="Captura de pantalla 2026-03-20 134716.png" width="95%" alt="Carambola a Tres Bandas" /> <br>
 
   > *"Paciencia, estrategia y el ángulo perfecto... tanto en la mesa como en el código."* 🎱💻
 </div>
@@ -27,12 +18,6 @@ Cuando no estoy codeando, me encuentres en una mesa de **billar**. La **carambol
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00c853&center=true&vCenter=true&width=500&lines=println('Calculando+ángulos...');>+Tirando+a+3+bandas...;>>+¡Carambola!+Code+Compiled+Successfully!;Build+Status:+OK+%E2%9C%85" alt="Typing SVG" />
-</div>
-
----
 
 ### 🛠️ My Tech Stack
 
